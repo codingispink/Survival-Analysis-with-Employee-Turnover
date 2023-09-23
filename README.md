@@ -120,7 +120,9 @@ The second variable to look at is the exp(coef). In this model, "exp(coef) is th
 
 ## ACKNOWLEDGEMENT
 [1] Idil Ismiguzel, https://towardsdatascience.com/hands-on-survival-analysis-with-python-270fa1e6fb41
+
 [2] https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html
+
 [3] IBM Attrition Report
 
 
